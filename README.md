@@ -565,8 +565,9 @@ MIT License - feel free to use this project for your own purposes.
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on the repository.
+For questions or issues, please open an issue on the repository, or contact me via
+Email: mortazaameer8@gmail.com
+Website: Mortaza76.github.io
 
----
-
-**Built with ❤️ for seamless Urdu speech translation**
+Muhammad Ameer Mortaza
+Ghulam Ishaq Khan Institute (GIKI)
